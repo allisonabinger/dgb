@@ -8,7 +8,7 @@
 	--font-family-poppins: "Poppins", sans-serif;
 	--font-family-abel: "Abel", sans-serif;
 	--font-family-nunito: "Nunito", sans-serif;
-	--font-family-eb: "EB Garamond", sans-serif
+	--font-family-eb: "EB Garamond", sans-serif;
 	--color-white: #fff;
 	
 }
@@ -42,6 +42,10 @@ body h2 {
 
 .font5 {
 	font-family: var(--font-family-nunito);
+}
+
+.font6 {
+	font-family: var(--font-family-eb);
 }
 
 
