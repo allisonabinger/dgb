@@ -1,0 +1,139 @@
+/* Fonts **********************/
+
+/* root vars ******************/
+
+:root {
+	--font-family-reddit: "Reddit Mono", sans-serif;
+	--font-family-mont: "Montserrat", sans-serif;
+	--font-family-poppins: "Poppins", sans-serif;
+	--font-family-abel: "Abel", sans-serif;
+	--font-family-nunito: "Nunito", sans-serif;
+	--font-family-eb: "EB Garamond", sans-serif
+	--color-white: #fff;
+	
+}
+body {
+	color: black !important;
+}
+
+body h1 {
+	font-size: 1.5rem;
+}
+
+body h2 {
+	font-size: 1.25rem;
+}
+
+.font1 {
+	font-family: var(--font-family-reddit);
+}
+
+.font2 {
+	font-family: var(--font-family-mont);
+}
+
+.font3 {
+	font-family: var(--font-family-poppins);
+}
+
+.font4 {
+	font-family: var(--font-family-abel);
+}
+
+.font5 {
+	font-family: var(--font-family-nunito);
+}
+
+
+.row {
+	padding: 1.5rem;
+	margin: 1.5rem;
+}
+
+.box {
+	margin-left: 1rem;
+	margin-right: 1rem;
+	border-radius: 15%;
+}
+
+.row-title {
+	padding: none;
+	margin-bottom: 1.5rem;
+	background-color: black;
+	color: white;
+}
+
+.bold	{
+	font-weight: 600;
+}
+
+.italic {
+	font-style: italic;
+}
+
+.light {
+	font-weight: 100;
+}
+
+/* Row 1 Colors */
+.row1 .box1 {
+	background-color: #073a2d;
+	color: #f8ba6b;
+}
+
+.row1 .box2 {
+	background-color: #3c5349;
+	color: #f8f4e3;
+}
+
+.row1 .box3 {
+	background-color: #cae7b9;
+	color: black;
+}
+
+.row1 .box4 {
+	background-color: #002317;
+	color: wheat;
+}
+
+/* Row 2 Colors */
+
+.row2 .box1 {
+	background-color: #e88c7A;
+	color: #FFEDD9;
+}
+
+.row2 .box2 {
+	background-color: #3f220f;
+	color: wheat;
+}
+
+.row2 .box3 {
+	background-color: #feb95f;
+	color: #8f5c38;
+}
+
+.row2 .box4 {
+	background-color: #d9cab3;
+	color: #832232;
+}
+
+.row3 .box1 {
+	background-color: #b49082;
+	color: #f5fbef;
+}
+
+.row3 .box2 {
+	background-color: #659b5e;
+	color: #fff;
+}
+
+.row3 .box3 {
+	background-color: #1a3321;
+	color: #faf0ca;
+}
+
+.row3 .box4 {
+	background-color: #facfad;
+	color: #606c38;
+}
